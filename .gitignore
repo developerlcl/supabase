@@ -1,2 +1,7 @@
 .env
 /node_modules
+localhost.http
+heroku.http
+pnpm-lock.yaml
+db.js
+
